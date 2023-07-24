@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Quiz_Application</string>
+    <string name="avg">Get The Average</string>
+    <string name="qtns">Select the number of questions</string>
+    <string name="reset">Reset the saved results</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="q1">In the animation film “Finding Nemo,” the main protagonist is a pufferfish.</string>
+    <string name="q2">Is Mount Kilimanjaro the world’s tallest peak?</string>
+    <string name="q3">Spaghetto is the singular form of the word spaghetti.</string>
+    <string name="q4">Pinocchio was Walt Disney’s first animated feature film in full color.</string>
+    <string name="q5">Venezuela is home to the world’s highest waterfall.</string>
+    <string name="q6">Coffee is a berry-based beverage.</string>
+    <string name="q7">The capital of Australia is Sydney.</string>
+    <string name="q8">The longest river in the world is the Amazon River.</string>
+    <string name="q9">Polar bears can only live in the Arctic region, not in the Antarctic.</string>
+    <string name="q10">The United Kingdom is almost the same size as France.</string>
+    <string name="q11">Walt Disney has the record for most Academy Awards.</string>
+    <string name="q12">By lying a frog on its back and softly caressing its tummy, it is possible to hypnotize it.</string>
+    <string name="q13">The moon is wider than Australia.</string>
+    <string name="q14">Daily, your nose and sinuses create almost one liter of mucus.</string>
+    <string name="q15">Seahorses have stomachs, which aid in the digestion of food.</string>
+    <string name="q16">The first Disney princess was Cinderella.</string>
+    <string name="q17">Patients with COVID-19 may use ibuprofen, aspirin, or naproxen as anti-inflammatory medications.</string>
+    <string name="q18">In Scotland, the unicorn is their national animal.</string>
+    <string name="q19">Zeus is referred to as the king of the Greek gods and goddesses.</string>
+    <string name="q20">The Caribbean Island of Aruba is part of Portugal.</string>
+    <string name="q21">The goat is used to symbolize the zodiac sign, Capricorn.</string>
+    <string name="q22">Four countries share their land borders with Switzerland.</string>
+    <string name="q23">In a regular deck of cards, all kings have a mustache.</string>
+    <string name="q24">Borneo is divided into three nations.</string>
+    <string name="q25">There is no English word that rhymes with orange.</string>
+    <string name="tru">True</string>
+    <string name="fal">False</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect :(</string>
+    <string name="finish_body">Your Score is:</string>
+    <string name="ignore">IGNORE</string>
+    <string name="saved">SAVED</string>
+    <string name="result">Result</string>
+    <string name="avg_body">Your Correct answers / Total number of questions =</string>
+    <string name="ok">OK</string>
+    <string name="new_Qtn_body">Enter the number of questions.</string>
+    <string name="lower">Lower LImit:</string>
+    <string name="upper">Upper Limit:</string>
+    <string name="cancel">CANCEL</string>
+    <string name="wrong_input">Wrong Input</string>
+    <string name="save">SAVE</string>
+</resources>

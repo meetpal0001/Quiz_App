@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">प्रश्नोत्तरी_आवेदन</string>
+    <string name="avg">औसत प्राप्त करें</string>
+    <string name="qtns">प्रश्नों की संख्या चुनें</string>
+    <string name="reset">सहेजे गए परिणाम रीसेट करें</string>
+    <string name="q1">एनीमेशन फिल्म \"फाइंडिंग निमो\" में मुख्य नायक एक पफरफिश है।</string>
+    <string name="q2">क्या माउंट किलिमंजारो विश्व की सबसे ऊंची चोटी है?</string>
+    <string name="q3">स्पेगेटो स्पेगेटी शब्द का एकवचन रूप है।</string>
+    <string name="q4">पिनोचियो वॉल्ट डिज़्नी की पूर्ण रंगीन पहली एनिमेटेड फीचर फिल्म थी।</string>
+    <string name="q5">वेनेजुएला दुनिया के सबसे ऊंचे झरने का घर है।</string>
+    <string name="q6">कॉफ़ी एक बेरी आधारित पेय है।</string>
+    <string name="q7">ऑस्ट्रेलिया की राजधानी सिडनी है।</string>
+    <string name="q8">"  विश्व की सबसे लंबी नदी अमेज़न नदी है।"</string>
+    <string name="q9">ध्रुवीय भालू केवल आर्कटिक क्षेत्र में ही रह सकते हैं, अंटार्कटिक में नहीं।</string>
+    <string name="q10">यूनाइटेड किंगडम का आकार लगभग फ्रांस के समान ही है।</string>
+    <string name="q11">"  वॉल्ट डिज़्नी के नाम सर्वाधिक अकादमी पुरस्कारों का रिकॉर्ड है"</string>
+    <string name="q12">मेंढक को उसकी पीठ के बल लिटाकर और उसके पेट को धीरे-धीरे सहलाकर उसे सम्मोहित किया जा सकता है।</string>
+    <string name="q13">चंद्रमा ऑस्ट्रेलिया से भी अधिक चौड़ा है।</string>
+    <string name="q14">"  प्रतिदिन, आपकी नाक और साइनस लगभग एक लीटर बलगम बनाते हैं।"</string>
+    <string name="q15">समुद्री घोड़ों में पेट होता है, जो भोजन को पचाने में सहायता करता है।</string>
+    <string name="q16">पहली डिज़्नी राजकुमारी सिंड्रेला थी।</string>
+    <string name="q17">सीओवीआईडी ​​​​-19 के मरीज सूजन-रोधी दवाओं के रूप में इबुप्रोफेन, एस्पिरिन या नेप्रोक्सन का उपयोग कर सकते हैं।</string>
+    <string name="q18">स्कॉटलैंड में गेंडा उनका राष्ट्रीय पशु है।</string>
+    <string name="q19">ज़ीउस को यूनानी देवी-देवताओं का राजा कहा जाता है।</string>
+    <string name="q20">अरूबा का कैरेबियाई द्वीप पुर्तगाल का हिस्सा है।</string>
+    <string name="q21">बकरी का उपयोग मकर राशि के प्रतीक के रूप में किया जाता है।</string>
+    <string name="q22">चार देश स्विट्जरलैंड के साथ अपनी भूमि सीमाएँ साझा करते हैं।</string>
+    <string name="q23">ताश के नियमित डेक में, सभी राजाओं की मूंछें होती हैं।</string>
+    <string name="q24">"  बोर्नियो तीन राष्ट्रों में विभाजित है।"</string>
+    <string name="q25">ऐसा कोई अंग्रेजी शब्द नहीं है जो नारंगी के साथ मेल खाता हो।</string>
+    <string name="tru">सत्य</string>
+    <string name="fal">असत्य</string>
+    <string name="correct">सही!</string>
+    <string name="incorrect">गलत :(</string>
+    <string name="finish_body">आपका स्कोर है:</string>
+    <string name="save">बचाना</string>
+    <string name="ignore">अनदेखा करना</string>
+    <string name="saved">बचाया</string>
+    <string name="result">परिणाम</string>
+    <string name="avg_body">आपके सही उत्तर / प्रश्नों की कुल संख्या =</string>
+    <string name="ok">ठीक</string>
+    <string name="new_Qtn_body">प्रश्नों की संख्या दर्ज करें.</string>
+    <string name="lower">निचली सीमा:</string>
+    <string name="upper">ऊपरी सीमा:</string>
+    <string name="cancel">रद्द करना</string>
+    <string name="wrong_input">ग़लत इनपुट</string>
+</resources>
